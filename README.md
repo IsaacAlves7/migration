@@ -1,4 +1,6 @@
 # Migration
+O projeto é uma Data Pipeline real de migração e normalização de dados heterogêneos. O conjunto é coerente dentro de um contexto de engenharia de dados moderna e automação orientada a dados.
+
 <img width="708" height="516" alt="FB_IMG_1722054723396" src="https://github.com/user-attachments/assets/87805714-60bc-4923-b9a0-d1a697113d13" />
 
 # Fruzzy
